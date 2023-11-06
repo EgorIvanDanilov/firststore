@@ -3,9 +3,9 @@ function App() {
     <div className="wrapper">
       <header>
         <div className="headerleft">
-          <svg />
+          <img src="/img/logo.png" />
           <div className="headerInfo">
-            <h3>First Store</h3>
+            <h3>First Store!</h3>
             <p>My first frontend project</p>
           </div>
         </div>
