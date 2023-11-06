@@ -3,7 +3,7 @@ function App() {
     <div className="wrapper">
       <header>
         <div className="headerleft">
-          <img src="/img/logo.png" />
+          <img width={80} height={80} src="/img/logo.png" />
           <div className="headerInfo">
             <h3>First Store!</h3>
             <p>My first frontend project</p>
@@ -11,11 +11,11 @@ function App() {
         </div>
         <ul className="headerRight">
           <li>
-            <svg />
+            <img width={40} height={40} src="/img/cart.png" />
             <span>Preis</span>
           </li>
           <li>
-            <svg />
+            <img width={40} height={40} src="/img/myaccount.png" />
           </li>
         </ul>
       </header>
