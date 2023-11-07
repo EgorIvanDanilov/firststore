@@ -33,9 +33,13 @@ header {
 
 .card {
   border: 1px solid #f8f8f8;
-  padding: 20px;
-  width: 210px;
+  padding: 30px;
+  width: 220px;
   border-radius: 40px;
+  h5{
+    font-weight: 400;
+    font-size: 14px;
+  }
 }
 
 button {
