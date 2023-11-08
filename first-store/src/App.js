@@ -21,21 +21,135 @@ function App() {
       </header>
       <div className="content p-40">
         <h1 className="mb-40">All products</h1>
-
-        <div className="card">
-          <img width={140} height={140} src="" alt="" />
-          // Тут фотография товара из API
-          <p>Название товара из API</p>
-          <div className="d-flex justify-between align-center">
-            <div className="d-flex flex-column">
-              <p>Preis:</p>
-              <b>9 999 dollars</b>
+        <div className="d-flex">
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
             </div>
-            <button className="button">
-              <img width={12} height={12} src="/img/plus.png" alt="plus" />
-            </button>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
+          </div>
+          <div className="card">
+            <img
+              width={140}
+              height={140}
+              src=""
+              alt="Тут фотография товара из API"
+            />
+            <p>Название товара из API</p>
+            <div className="d-flex justify-between align-center">
+              <div className="d-flex flex-column">
+                <p>Preis:</p>
+                <b>9 999 dollars</b>
+              </div>
+              <button className="button">
+                <img width={12} height={12} src="/img/plus.png" alt="plus" />
+              </button>
+            </div>
           </div>
         </div>
+        //До сюда удалить
       </div>
     </div>
   );
